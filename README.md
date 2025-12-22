@@ -72,9 +72,9 @@ cp circuits/verification_key.json public/circuits/
 ```
 
 You should now have:
-- `public/circuits/Main.wasm` (~194 KB)
-- `public/circuits/Main_final.zkey` (~18.9 MB)
-- `public/circuits/verification_key.json` (~3 KB)
+- `public/circuits/Main.wasm` 
+- `public/circuits/Main_final.zkey`
+- `public/circuits/verification_key.json` 
 
 ### 3. Run the App
 
