@@ -1,11 +1,10 @@
-# ZK Geolocation Proof
+# Geolocation Proof
 
 A privacy-preserving geolocation verification system using Zero-Knowledge Proofs. Prove you're inside a polygon without revealing your exact location!
 
 ## Features
 
 - 🗺️ Interactive map with polygon drawing
-- 🌈 Rainbow gradient polygon visualization
 - 🔐 Zero-Knowledge proof generation and verification
 - 📍 Location search functionality
 - ✨ Automatic 8-vertex polygon conversion
@@ -35,6 +34,3 @@ npm run build      # Production build
 npm run preview    # Preview build
 ```
 
-## License
-
-MIT

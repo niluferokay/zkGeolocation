@@ -57,3 +57,5 @@ Thumbs.db
 
 # Circom submodule
 circom/
+.vercel
+.env*.local
