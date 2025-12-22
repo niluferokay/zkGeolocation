@@ -38,11 +38,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Circuit files - KEEP THESE PRIVATE!
-# Public circuit files (used by the app)
-public/circuits/*.zkey
-public/circuits/*.wasm
-
 # Circuit build artifacts
 circuits/build/
 circuits/*.ptau
